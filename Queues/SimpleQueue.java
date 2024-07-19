@@ -36,3 +36,4 @@ public class SimpleQueue {
         System.out.println("Queue size: " + queue.size()); // Number of elements is 2
     }
 }
+

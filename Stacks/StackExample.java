@@ -6,7 +6,8 @@ package Stacks;
 
 /**
  *
- * @author fbarasa This example uses the a built-in Stack class as part of the
+ * @author fbarasa 
+ * This example uses the a built-in Stack class as part of the
  * java.util package, but you can also implement your own stack for better
  * understanding or specific requirements.
  */
